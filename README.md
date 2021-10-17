@@ -5,3 +5,4 @@ This project creates a landing page for an advertisement of a mobile-app called,
 **Purpose:** culmination and reinforcement of learning.<br />
 **Tools:** GitHub Pages, Visual Studio Code.<br />
 **Languages:** HTML, CSS, Markdown, Command Line, Git.<br /><br />
+Live preview: https://travboz.github.io/Codecademy-Excursion/
